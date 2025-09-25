@@ -1,0 +1,25 @@
+/* input[type=checkbox] {
+  accent-color: red;
+}
+
+input[type=radio] {
+  accent-color: green;
+}
+
+input[type=range] {
+  accent-color: rgb(245, 5, 213);
+}
+
+progress {
+  accent-color: hsl(39, 100%, 50%);
+}
+   */
+
+  #checkbox1
+  {
+    accent-color: yellow;
+  }
+
+  .checkbox2  {
+    accent-color: red;
+  }
