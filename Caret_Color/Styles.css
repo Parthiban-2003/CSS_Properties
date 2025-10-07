@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+}
+
+.para
+{
+    caret-color: rgb(248, 5, 236);
+}
+
+#txtfield
+{
+    caret-color: rgb(55, 0, 255);
+}
+
+#txtarea
+{
+    caret-color: brown;
+    width:300px;
+    height:200px;
+}
