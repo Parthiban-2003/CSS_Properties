@@ -1,0 +1,10 @@
+h1
+{
+    text-align: center;
+}
+
+.newsPaper
+{
+    column-count: 3;
+    column-gap: 50px;
+}

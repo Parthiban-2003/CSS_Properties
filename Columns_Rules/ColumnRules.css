@@ -1,0 +1,18 @@
+h1
+{
+    text-align: center;
+}
+
+.newsPaper
+{
+    column-count: 3;
+    column-rule-style: solid;
+    column-rule-width: 8px;
+    column-rule-color: blue;
+}
+
+.magazine
+{
+    column-count: 3;
+     column-rule: 5px solid green; /*shorthand property */
+}
